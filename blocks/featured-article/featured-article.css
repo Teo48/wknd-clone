@@ -1,0 +1,23 @@
+.featured-article > div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    /* background-color: beige; */
+}
+
+/* text */
+.featured-article > div > div:nth-child(1) {
+    flex-basis: 65%;
+    font-family: 'Source Sans Pro','Helvetica Neue','Helvetica','Arial','sans-serif';
+    font-size: 14px;
+    text-align: left;
+    color: #202020;
+    line-height: 1.5;
+}
+
+/* image */
+/* Create another div as nth-child3 with flex-basis*/
+.featured-article > div > div:nth-child(2) {
+    /* flex-basis: 75%; */
+}
