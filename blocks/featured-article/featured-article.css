@@ -10,7 +10,7 @@
 .featured-article > div > div:nth-child(1) {
     flex-basis: 65%;
     font-family: 'Source Sans Pro','Helvetica Neue','Helvetica','Arial','sans-serif';
-    font-size: 14px;
+    font-size: 80px;
     text-align: left;
     color: red;
     line-height: 1.5;
